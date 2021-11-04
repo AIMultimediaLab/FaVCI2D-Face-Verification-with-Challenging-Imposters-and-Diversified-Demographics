@@ -1,6 +1,6 @@
 # FaVCI2D-Face-Verification-with-Challenging-Imposters-and-Diversified-Demographics
 
- If you would like to request access to the data set you will first need to fill the form \[[https://favci2d-eula.aimultimedialab.ro/](https://favci2d-eula.aimultimedialab.ro/)] and indicate your agreement to the terms. You must use your official email address for all correspondence.
+ If you would like to request access to the data set you will first need to fill in the form \[[https://favci2d-eula.aimultimedialab.ro/](https://favci2d-eula.aimultimedialab.ro/)] and indicate your agreement to the terms. You must use your official email address for all correspondence.
 
 We’d like you to note the following restrictions in particular:
 
