@@ -10,6 +10,10 @@ We’d like you to note the following restrictions in particular:
 - The data set must be held securely and used in line with the signed terms of use.
 
 
+Please find all the details about the data set in the draft of the main paper here:
+[https://arxiv.org/abs/2110.08667](https://arxiv.org/abs/2110.08667)
+
+
 ```
 @inproceedings{popescu2022face,
 author    = {Popescu, Adrian and {\c{S}}tefan, Liviu-Daniel and Deshayes-Chossart, J{\'e}r{\^o}me and Ionescu, Bogdan},
