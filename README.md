@@ -18,8 +18,8 @@ Please find all the details about the data set in the draft of the main paper he
 author    = {Popescu, Adrian and {\c{S}}tefan, Liviu-Daniel and Deshayes-Chossart, J{\'e}r{\^o}me and Ionescu, Bogdan},
 title     = {Face Verification with Challenging Imposters and Diversified Demographics},
 booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-year      = {2022},
-month     = {January}
+month     = {January},
+year      = {2022}
 }
 
 ```
