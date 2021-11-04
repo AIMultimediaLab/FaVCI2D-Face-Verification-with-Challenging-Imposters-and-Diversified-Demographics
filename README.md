@@ -4,7 +4,7 @@
 
 We’d like you to note the following restrictions in particular:
 
-- The data set area available to researchers from universities and other reputable academic institutions and relevant public organisations, strictly for non-commercial research; 
+- The data set is available to researchers from universities and other reputable academic institutions and relevant public organisations, strictly for non-commercial research; 
 - Use is not permitted by commercial organisations;
 - The data set is for your use only. You mustn’t distribute the data to anyone else. If other members of your team wish to have access to the data set, they'll need to agree to the  terms of use by signing the form \[[https://favci2d-eula.aimultimedialab.ro/](https://favci2d-eula.aimultimedialab.ro/)\]. They will then get access ussing their own e-mail address/GitHub username;
 - The data set must be held securely and used in line with the signed terms of use.
