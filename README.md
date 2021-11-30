@@ -25,4 +25,6 @@ year      = {2022}
 ```
 
 ## Acknowledgment 
-This work was supported by the European Commission under European Horizon 2020 Programme, grant number 951911 - AI4Media. It was made possible by the use of the FactoryIA supercomputer, financially supported by the Ile-de-France Regional Council.
+This work was supported by the European Commission under European Horizon 2020 Programme, grant number 951911 - [AI4Media](https://www.ai4media.eu/). It was made possible by the use of the FactoryIA supercomputer, financially supported by the Ile-de-France Regional Council.
+
+![AI4Media](./pictures/image.png)
