@@ -26,3 +26,4 @@ year      = {2022}
 
 ## Acknowledgment 
 This work was supported by the European Commission under European Horizon 2020 Programme, grant number 951911 - [AI4Media](https://www.ai4media.eu/). It was made possible by the use of the FactoryIA supercomputer, financially supported by the Ile-de-France Regional Council.
+<img src="https://www.ai4europe.eu/sites/default/files/2021-06/Logo_AI4Media_0.jpg" width="200">
